@@ -18,7 +18,7 @@ This Bash script provides a simple and interactive way to perform common system 
 
 ## Usage
 
-1. Clone or download the script file (`system_config.sh`) to your local system.
+1. Clone or download the script file (`config_system.sh`) to your local system.
 2. Open a terminal and navigate to the directory containing the script.
 3. Run the script using the following command: ./config_system.sh
 4. Follow the on-screen instructions to select and execute desired tasks from the menu.
